@@ -1,0 +1,12 @@
+{
+  "name": "minimal-nft-marketplace",
+  "version": "1.0.0",
+  "description": "Expert level NFT Marketplace logic",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
